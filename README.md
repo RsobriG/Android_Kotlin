@@ -2,4 +2,4 @@
 
 Curso UDEMY (Kotlin + Android Studio)
 
-1. Dice Roll
+1. Dice Roller
