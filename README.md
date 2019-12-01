@@ -1,5 +1,5 @@
 # Android_Kotlin
 
-Curso UDEMY (Kotlin + Android Studio)
-
-1. Dice Roller
+Udemy course
+* Dice Roller
+* About Me
