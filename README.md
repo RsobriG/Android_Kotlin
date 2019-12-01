@@ -1,5 +1,5 @@
 # Android_Kotlin
 
 Udemy course
-* 01. Dice Roller
-* 02. About Me
+* 1. Dice Roller
+* 2. About Me
